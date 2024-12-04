@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Leah <br><br>
+## Hi, I'm Leah! :frog: <br>
 - :computer: Masters student in computer science and digtial arts at Guarini School of Graduate Studies
 - :mortar_board: Graduated from Dartmouth College with a background in VR, design, and animation; check out my [website](https://llbranstetter.wixsite.com/leah-branstetter-por) to learn about my past projects
 - :books: Starting research into AI and machine learning in January
